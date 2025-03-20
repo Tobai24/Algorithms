@@ -1,67 +1,72 @@
-# **Algorithms**  
-A repository where I keep implementations of fundamental data structures and algorithms.  
+# **Algorithms**
 
-Written in **Python 3**. Inspired by *Chip Huyen*.  
+A repository where I keep implementations of fundamental data structures and algorithms.
 
----
-
-## 📌 **Data Structures**  
-- [ ] **Linked Lists**  
-- [ ] **Stacks**  
-- [ ] **Queues**  
-- [ ] **Hash Tables**  
-- [ ] **Trees**  
-- [x] **Binary Search Trees**  
-- [ ] **Heaps**  
-- [ ] **Graphs**  
-- [ ] **Trie**  
-- [ ] **Union Find**  
+Written in **Python 3**. Inspired by _Chip Huyen_.
 
 ---
 
-## 📌 **Algorithms**  
+## 📌 **Data Structures**
 
-### **Sorting**  
-- [ ] Insertion Sort  
-- [ ] Selection Sort  
-- [ ] Merge Sort  
-- [ ] Heap Sort  
-- [ ] Quick Sort  
-- [ ] Counting Sort  
-- [ ] Radix Sort  
-- [ ] Bucket Sort  
-
-### **Searching**  
-- [ ] Linear Search  
-- [ ] Binary Search  
-
-### **Bit Manipulation**  
-- [ ] Bitwise Operations  
-
-### **Tree Traversal**  
-- [ ] In-order  
-- [ ] Pre-order  
-- [ ] Post-order  
-
-### **Graph Algorithms**  
-- [ ] DFS / BFS  
-- [ ] Topological Sort  
-- [ ] Shortest Path  
-- [ ] Minimum Spanning Tree  
+- [ ] **Linked Lists**
+- [ ] **Stacks**
+- [ ] **Queues**
+- [ ] **Hash Tables**
+- [ ] **Trees**
+- [ ] **Binary Search Trees**
+- [ ] **Heaps**
+- [ ] **Graphs**
+- [ ] **Trie**
+- [ ] **Union Find**
 
 ---
 
-## 📌 **Problem-Solving Techniques**  
+## 📌 **Algorithms**
 
-- [ ] Two Pointers  
-- [ ] Sliding Window  
-- [ ] Prefix Sum  
-- [ ] Fast and Slow Pointers  
-- [ ] Divide and Conquer  
-- [ ] Greedy  
-- [ ] Recursion  
-- [ ] Backtracking  
-- [ ] Dynamic Programming  
-- [ ] Top ‘K’ Elements  
+### **Sorting**
 
+- [ ] Insertion Sort
+- [ ] Selection Sort
+- [ ] Merge Sort
+- [ ] Heap Sort
+- [ ] Quick Sort
+- [ ] Counting Sort
+- [ ] Radix Sort
+- [ ] Bucket Sort
 
+### **Searching**
+
+- [ ] Linear Search
+- [x] Binary Search
+
+### **Bit Manipulation**
+
+- [ ] Bitwise Operations
+
+### **Tree Traversal**
+
+- [ ] In-order
+- [ ] Pre-order
+- [ ] Post-order
+
+### **Graph Algorithms**
+
+- [ ] DFS / BFS
+- [ ] Topological Sort
+- [ ] Shortest Path
+- [ ] Minimum Spanning Tree
+
+---
+
+## 📌 **Problem-Solving Techniques**
+
+- [ ] Two Pointers
+- [ ] Sliding Window
+- [ ] Prefix Sum
+- [ ] Fast and Slow Pointers
+- [ ] Divide and Conquer
+- [ ] Greedy
+- [ ] Recursion
+- [ ] Backtracking
+- [ ] Dynamic Programming
+- [ ] Top ‘K’ Elements
